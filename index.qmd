@@ -33,7 +33,7 @@ about:
 </div>
 ```
 
-::: {#about-block}
+::: {#about-block} d
 <center>I try to understand the 'imperfection' of humankind and how we play with uncertainty.</center>
 
 

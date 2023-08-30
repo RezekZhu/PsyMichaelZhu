@@ -26,8 +26,8 @@ about:
 
 
 ```{=html}
-<div  style="margin: 150px; text-align: center; vertical-align:middle">
-<a class="btn btn-primary" href="https://twitter.com/yuhao_rezek" role="button" target="_blank" style="padding: 30px 30px;background:black; color:transparent; border: transparent; vertical-align:middle">
+<div  style="margin:150px auto; text-align: center; vertical-align:middle ">
+<a class="btn btn-primary" href="https://twitter.com/yuhao_rezek" role="button" target="_blank" style="padding: 30px 30px;background:transparent; color:transparent; border: transparent; vertical-align:middle">
 <img src="https://cdn.discordapp.com/attachments/1145568898033389571/1146113814698410018/box.gif" style="vertical-align:middle">
 </a>
 </div>

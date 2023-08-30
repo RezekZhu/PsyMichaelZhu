@@ -1,10 +1,7 @@
 [
   {
-    "listing": "/task/DAF/tt/index.html",
-    "items": [
-      "/task/DAF/tt/posts/post-with-code/index.html",
-      "/task/DAF/tt/posts/welcome/index.html"
-    ]
+    "listing": "/task/index.html",
+    "items": []
   },
   {
     "listing": "/task/OWL/tt/index.html",
@@ -14,7 +11,10 @@
     ]
   },
   {
-    "listing": "/task/index.html",
-    "items": []
+    "listing": "/task/DAF/tt/index.html",
+    "items": [
+      "/task/DAF/tt/posts/post-with-code/index.html",
+      "/task/DAF/tt/posts/welcome/index.html"
+    ]
   }
 ]

@@ -1,0 +1,45 @@
+---
+title: "Mike Zhu"
+about:
+  template: solana
+  id: about-block
+  image: "Zhu.jpg"
+  links:
+    - icon: envelope
+      aria-label: email
+      href: "mailto:rezek_zhu@outlook.com"  
+    - icon: twitter
+      href: https://twitter.com/yuhao_rezek
+    - icon: instagram
+      href: https://www.instagram.com/rezek_zhu
+---
+<style>
+  body {
+  background-image: url("https://cdn.discordapp.com/attachments/1145568898033389571/1146937443912777870/photography.jpg");
+  
+  background-repeat: no-repeat;
+  background-position: top center;
+  /*background-attachment: fixed;*/
+}
+  
+</style>
+
+
+::: {#about-block} 
+
+On my way to be a scientist.
+
+
+My biggest curiosities are:
+
+1) Models by everyone
+2) Uncertainty and sense of control
+3) The 'imperfection' of humankind
+
+
+:::
+
+:::{.column-page}
+
+:::
+

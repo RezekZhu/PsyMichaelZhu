@@ -3,7 +3,7 @@ title: "Mike Zhu"
 about:
   template: jolla
   id: about-block
-  image: "Zhu.jpg"
+  #image: "Zhu.jpg"
   links:
     - icon: envelope
       aria-label: email
@@ -13,6 +13,62 @@ about:
     - icon: instagram
       href: https://www.instagram.com/rezek_zhu
 ---
+
+
+
+
+
+```{=html}
+<style>
+    .left_div {
+        color: #ffffff;
+        background-color: transparent;
+		padding:0px 0px;
+		width: 330px;
+		height: 400px;
+    }
+    
+     .middle_div {
+        color: #ffffff;
+        background-color: transparent;
+		padding:0px 0px;
+		width: 130px;
+		height: 400px;
+    }
+    
+    .right_div {
+        color: #000000;
+        background-color: transparent;
+		padding:0px 0px;
+		width: 330px;
+		height: 400px;
+    }
+</style>
+<div>
+
+    <a href="Psychology/index.qmd">
+      <div class="left_div" style="float: left;vertical-align:middle"></div> 
+    </a>
+    
+    
+    <a href="Personal/index.qmd">
+      <div class="middle_div" style="float: left;vertical-align:middle">
+      <img src="https://cdn.discordapp.com/attachments/1145568898033389571/1146113814698410018/box.gif" style="padding: 150px 0px; vertical-align:middle">
+      </div> 
+    </a>
+    
+    
+    <a href="Photography/index.qmd">      
+      <div class="right_div" style="float: left;"></div>
+    </a>
+</div>
+```
+
+
+
+
+
+```{=html}
 <style>
   body {
   background-image: url("https://cdn.discordapp.com/attachments/1145568898033389571/1145954141953335376/whole-brain3.jpg");
@@ -23,21 +79,11 @@ about:
 }
   
 </style>
-
-
-```{=html}
-<div  style="margin:120px auto; text-align: center; vertical-align:middle ">
-<a class="btn btn-primary" href="https://twitter.com/yuhao_rezek" role="button" target="_blank" style="padding: 30px 30px;background:transparent; color:transparent; border: transparent; vertical-align:middle">
-<img src="https://cdn.discordapp.com/attachments/1145568898033389571/1146113814698410018/box.gif" style="vertical-align:middle">
-</a>
-</div>
 ```
 
-::: {#about-block} d
-<center>I try to understand the 'imperfection' of humankind and how we play with uncertainty.</center>
 
-
-<center>On my way to be a scientist.</center>
+::: {#about-block} 
+<center>I'm conquered by the complexity and beauty of the world.</center>
 :::
 
 :::{.column-page}
@@ -47,15 +93,12 @@ about:
 
 # Welcome to my website!
 
-This website will be completed in a few days, consisting of the following three parts:
+This website consists of the following three parts:
 
-- Psychology (Science, the left half brain above)
+- Psychology (Science, the left half brain)
 - Photography (Art, the right half brain) 
-- My life philosophy (Thoughts, the yellow question box in the center, a concept from [Super Mario](https://www.ted.com/talks/mark_rober_the_super_mario_effect_tricking_your_brain_into_learning_more)).
+- Personal (Thoughts and facts about me, the yellow question box in the center).
 
 
-
-Currently almost all the links are replaced with a 404 page or my twitter page. I'm not gonna call it 'X' as Elon Musk wishes.
-
-Btw,this cover picture is made by myself :D I loveee it!! Story behind it will also be posted in a few days.
+Click one of them to know more about me!
 

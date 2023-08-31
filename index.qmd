@@ -3,7 +3,7 @@ title: "Mike Zhu"
 about:
   template: jolla
   id: about-block
-  image: "Zhu.jpg"
+  #image: "Zhu.jpg"
   links:
     - icon: envelope
       aria-label: email

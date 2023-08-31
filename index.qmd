@@ -26,18 +26,16 @@ about:
 
 
 ```{=html}
-<div  style="margin:120px auto; text-align: center; vertical-align:middle ">
-<a class="btn btn-primary" href="https://twitter.com/yuhao_rezek" role="button" target="_blank" style="padding: 30px 30px;background:transparent; color:transparent; border: transparent; vertical-align:middle">
-<img src="https://cdn.discordapp.com/attachments/1145568898033389571/1146113814698410018/box.gif" style="vertical-align:middle">
-</a>
+
+<div  style="margin:150px auto; text-align: center; vertical-align:middle ">
+  <a href="https://twitter.com/yuhao_rezek">
+    <img src="https://cdn.discordapp.com/attachments/1145568898033389571/1146113814698410018/box.gif">
+  </a>
 </div>
 ```
 
-::: {#about-block} d
-<center>I try to understand the 'imperfection' of humankind and how we play with uncertainty.</center>
-
-
-<center>On my way to be a scientist.</center>
+::: {#about-block} 
+<center>I'm conquered by the complexity and beauty of the world.</center>
 :::
 
 :::{.column-page}

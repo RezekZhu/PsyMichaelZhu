@@ -16,5 +16,23 @@
       "/task/DAF/tt/posts/post-with-code/index.html",
       "/task/DAF/tt/posts/welcome/index.html"
     ]
+  },
+  {
+    "listing": "/projects/index.html",
+    "items": []
+  },
+  {
+    "listing": "/projects/OWL/tt/index.html",
+    "items": [
+      "/projects/OWL/tt/posts/post-with-code/index.html",
+      "/projects/OWL/tt/posts/welcome/index.html"
+    ]
+  },
+  {
+    "listing": "/projects/DAF/tt/index.html",
+    "items": [
+      "/projects/DAF/tt/posts/post-with-code/index.html",
+      "/projects/DAF/tt/posts/welcome/index.html"
+    ]
   }
 ]

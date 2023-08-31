@@ -18,7 +18,7 @@
     "href": "index.html",
     "title": "Mike Zhu",
     "section": "",
-    "text": "I try to understand the ‘imperfection’ of humankind and how we play with uncertainty.\n\n\nOn my way to be a scientist.\n\n \n  \n   \n  \n    \n     \n  \n  \n    \n     \n  \n  \n    \n     \n  \n\n\n\n\n\n\n\nWelcome to my website!\nThis website will be completed in a few days, consisting of the following three parts:\n\nPsychology (Science, the left half brain above)\nPhotography (Art, the right half brain)\nMy life philosophy (Thoughts, the yellow question box in the center, a concept from Super Mario).\n\nCurrently almost all the links are replaced with a 404 page or my twitter page. I’m not gonna call it ‘X’ as Elon Musk wishes.\nBtw,this cover picture is made by myself :D I loveee it!! Story behind it will also be posted in a few days."
+    "text": "I’m conquered by the complexity and beauty of the world.\n\n \n  \n   \n  \n    \n     \n  \n  \n    \n     \n  \n  \n    \n     \n  \n\n\n\n\n\n\n\nWelcome to my website!\nThis website will be completed in a few days, consisting of the following three parts:\n\nPsychology (Science, the left half brain above)\nPhotography (Art, the right half brain)\nMy life philosophy (Thoughts, the yellow question box in the center, a concept from Super Mario).\n\nCurrently almost all the links are replaced with a 404 page or my twitter page. I’m not gonna call it ‘X’ as Elon Musk wishes.\nBtw,this cover picture is made by myself :D I loveee it!! Story behind it will also be posted in a few days."
   },
   {
     "objectID": "index.html#goals",
@@ -138,5 +138,68 @@
     "title": "Curriculum vitae",
     "section": "",
     "text": "Download current CV"
+  },
+  {
+    "objectID": "projects/index.html",
+    "href": "projects/index.html",
+    "title": "myblog",
+    "section": "",
+    "text": "No matching items"
+  },
+  {
+    "objectID": "projects/OWL/tt/index.html",
+    "href": "projects/OWL/tt/index.html",
+    "title": "tt",
+    "section": "",
+    "text": "sssss\n\n\n\n\n\n\n\n\n  \n\n\n\n\nPost With Code\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nAug 27, 2023\n\n\nHarlow Malloc\n\n\n\n\n\n\n  \n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nAug 24, 2023\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "projects/OWL/tt/posts/post-with-code/index.html",
+    "href": "projects/OWL/tt/posts/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "projects/DAF/tt/index.html",
+    "href": "projects/DAF/tt/index.html",
+    "title": "tt",
+    "section": "",
+    "text": "sssss\n\n\n\n\n\n\n\n\n  \n\n\n\n\nPost With Code\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nAug 27, 2023\n\n\nHarlow Malloc\n\n\n\n\n\n\n  \n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nAug 24, 2023\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "projects/DAF/tt/posts/post-with-code/index.html",
+    "href": "projects/DAF/tt/posts/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "projects/DAF/tt/posts/welcome/index.html",
+    "href": "projects/DAF/tt/posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "projects/DAF/tt/about.html",
+    "href": "projects/DAF/tt/about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this blog"
+  },
+  {
+    "objectID": "projects/OWL/tt/posts/welcome/index.html",
+    "href": "projects/OWL/tt/posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "projects/OWL/tt/about.html",
+    "href": "projects/OWL/tt/about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this blog"
   }
 ]

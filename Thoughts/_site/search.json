@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Thoughts",
+    "section": "",
+    "text": "sssss\n\n\n\n\n\n\n\n\n  \n\n\n\n\nEveryone builds models\n\n\n\n\n\n\n\nPerspective\n\n\n\n\n\n\n\n\n\n\n\nAug 31, 2023\n\n\nMichael Zhu\n\n\n\n\n\n\n  \n\n\n\n\nPost With Code\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nAug 27, 2023\n\n\nHarlow Malloc\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Everyone builds models",
+    "section": "",
+    "text": "Everyone builds models to describe, explain(“postdict”), predict, then to control the environment.\nI’m curious about why we human need to develop such a property, from a evolutionary perspective. Is this group division providing the most efficient information that one person needs to guide his social action? I think computational models are useful tools to investigate this question."
+  },
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this blog"
+  }
+]

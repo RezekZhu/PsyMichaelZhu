@@ -15,8 +15,8 @@ website:
     
     # your sub-pages
     left:
-      - text: "Scientific Ideas"
-        href: ideas/index.qmd
+      - text: "Thoughts"
+        href: Thoughts/index.qmd
       - text: "Projects"
         menu:
           - text: DAF 

@@ -1,0 +1,17 @@
+---
+title: "Everyone builds models"
+author: "Michael Zhu"
+date: "2023-08-31"
+categories: [Perspective]
+---
+  I am curious about those abilities that separate us human from other species. Why human come to the top through the evolutionary journey?
+  From an evolutionary perspective, and computational simulation can help me with addressing thess hard-to-test hypothesis.
+  Scholars build models to describe, explain, predict, then to control the environment. From the solar system model to psychological theories, models can be simple or complex, in mathematical formulas or natural language forms.
+  But actually, it's not just scholars who build models, *everyone builds their own models*.
+  Why we human need models? Why we easily adopt a statistic concept? It seems like something deep in our mind, like the language device described by Chomsky. Everyone has a 朴素 statistic-like understanding of the world.
+  A thought is, we can use those concepts that are easily adopted by people to investigate the inner mind.
+  Generally speaking, we build models for control, either *objective control* over the environment, or *fraud control*, which just to satisfy our sense of control. like we build shelters to keep ourselves from beasts and bad weathers, here we are actually change the environment. Uncertainty
+  
+  Piaget schema, similar concept to models here. We build models since early stage of our life.
+  
+I'm curious about why we human need to develop such a property, from a evolutionary perspective. Is this group division providing the most efficient information that one person needs to guide his social action? I think computational models are useful tools to investigate this question.

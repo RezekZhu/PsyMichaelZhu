@@ -34,5 +34,12 @@
       "/projects/DAF/tt/posts/post-with-code/index.html",
       "/projects/DAF/tt/posts/welcome/index.html"
     ]
+  },
+  {
+    "listing": "/Thoughts/index.html",
+    "items": [
+      "/Thoughts/posts/welcome/index.html",
+      "/Thoughts/posts/post-with-code/index.html"
+    ]
   }
 ]
